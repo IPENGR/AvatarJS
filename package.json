@@ -5,7 +5,7 @@
   "description": "AvatarJS project for cdn",
   "autoupdate": {
     "source": "git",
-    "target": "https://github.com/IPENGR/AvatarJS.git",
+    "target": "git://github.com/IPENGR/AvatarJS.git",
     "npmName": "avatarServices",
     "npmFileMap": [
       {
