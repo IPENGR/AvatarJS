@@ -6,9 +6,15 @@
   "autoupdate": {
     "source": "git",
     "target": "https://github.com/IPENGR/AvatarJS.git",
-    "basePath": "dist/",
-    "files": [
-      "avatarServices.js"
+    "npmName": "avatarServices",
+    "npmFileMap": [
+      {
+        "basePath": "/",
+        "files": [
+          "avatarServices.min.js",
+          "avatarServices.js"
+        ]
+      }
     ]
   },
   "author": "Innovapath",
@@ -16,10 +22,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/IPENGR/AvatarJS.git"
-  },
-
-  "dependencies": {
-
   },
   "devDependencies": {
     "grunt": ">=0.4.0",
