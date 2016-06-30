@@ -1,0 +1,28 @@
+{
+  "name": "AvatarJS",
+  "version": "0.2.0",
+  "description": "AvatarJS project for cdn",
+  "autoupdate": {
+    "source": "git",
+    "target": "https://github.com/AvatarJS/AvatarJS.git",
+    "basePath": "dist/",
+    "files": [
+      "**/*"
+    ]
+  },
+  "author": "Innovapath",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AvatarJS/AvatarJS.git"
+  },
+
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "grunt": ">=0.4.0",
+    "grunt-jslint": "^1.0.1",
+    "grunt-contrib-concat":"^1.0.1"
+  }
+}
