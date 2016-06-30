@@ -1,20 +1,21 @@
 {
   "name": "AvatarJS",
+  "filename": "avatarServices.js",
   "version": "0.2.0",
   "description": "AvatarJS project for cdn",
   "autoupdate": {
     "source": "git",
-    "target": "https://github.com/AvatarJS/AvatarJS.git",
+    "target": "https://github.com/IPENGR/AvatarJS.git",
     "basePath": "dist/",
     "files": [
-      "**/*"
+      "avatarServices.js"
     ]
   },
   "author": "Innovapath",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AvatarJS/AvatarJS.git"
+    "url": "https://github.com/IPENGR/AvatarJS.git"
   },
 
   "dependencies": {
