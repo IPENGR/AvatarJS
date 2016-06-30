@@ -1,7 +1,7 @@
 {
   "name": "AvatarJS",
   "filename": "avatarServices.min.js",
-  "version": "0.2.0",
+  "version": "0.2",
   "description": "AvatarJS project for cdn",
   "autoupdate": {
     "source": "git",
