@@ -1,6 +1,6 @@
 {
   "name": "AvatarJS",
-  "filename": "avatarServices.js",
+  "filename": "avatarServices.min.js",
   "version": "0.2.0",
   "description": "AvatarJS project for cdn",
   "autoupdate": {
@@ -11,8 +11,8 @@
       {
         "basePath": "",
         "files": [
-          "avatarServices.min.js",
-          "avatarServices.js"
+          "avatarServices.js",
+          "avatarServices.min.js"
         ]
       }
     ]
