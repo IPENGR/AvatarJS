@@ -9,7 +9,7 @@
     "npmName": "avatarServices",
     "npmFileMap": [
       {
-        "basePath": "/",
+        "basePath": "",
         "files": [
           "avatarServices.min.js",
           "avatarServices.js"
